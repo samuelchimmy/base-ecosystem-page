@@ -2448,6 +2448,14 @@
     "subcategory": "music"
   },
   {
+    "name": "Monipay",
+    "description": "Monipay is a non-custodial AI-powered payment platform improving crypto UX with usernames, gasless transactions, and natural language payments.",
+    "url": "https://monipay.xyz",
+    "imageUrl": "/images/partners/monipay.png",
+    "category": "consumer",
+    "subcategory": "payments"
+  },
+  {
     "name": "MoonLightPixels.com",
     "description": "AI-powered platform that lets everyone create beautiful, fun adventure games in minutes without coding, while earning rewards through blockchain integration.",
     "url": "https://www.moonlightpixels.com",
